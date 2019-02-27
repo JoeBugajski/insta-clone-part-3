@@ -1,0 +1,9 @@
+{
+  "name": "insta-clone-part-3",
+  "version": "1.0.0",
+  "description": "insta-clone walkthrough",
+  "main": "index.js",
+  "repository": "https://github.com/JoeBugajski/insta-clone-part-3.git",
+  "author": "Joe Bugajski <yogurtmystery@gmail.com>",
+  "license": "MIT"
+}
